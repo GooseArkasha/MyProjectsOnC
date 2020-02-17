@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\Dns\Desktop\My Projects\Projects on C\HelloWorldOnC\HelloWorldOnC\Main.c(5,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  HelloWorldOnC.vcxproj -> C:\Users\Dns\Desktop\My Projects\Projects on C\HelloWorldOnC\Debug\HelloWorldOnC.exe
